@@ -91,7 +91,7 @@ align-items: center;
 .photo
 {
     height: 300px;
-    width: 300px;
+/*    width: 300px;*/
     object-fit: cover;
 /*    flex-basis: 50%;*/
 }
